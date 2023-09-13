@@ -2,7 +2,6 @@
 package com.mycompany.patronstrategy01;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class MetodoDePagoDebito implements MetodoDePago{
