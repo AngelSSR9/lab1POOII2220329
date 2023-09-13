@@ -1,0 +1,9 @@
+com\mycompany\patronstrategy01\Cliente.class
+com\mycompany\patronstrategy01\MetodoDePago.class
+com\mycompany\patronstrategy01\Main.class
+com\mycompany\patronstrategy01\MetodoDePagoDebito.class
+com\mycompany\patronstrategy01\MetodoDePagoYape.class
+com\mycompany\patronstrategy01\MetodoDePagoVisa.class
+com\mycompany\patronstrategy01\Producto.class
+com\mycompany\patronstrategy01\Tarjeta.class
+com\mycompany\patronstrategy01\MetodoDePagoPlin.class
